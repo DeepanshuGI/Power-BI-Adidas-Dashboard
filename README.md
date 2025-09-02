@@ -88,9 +88,9 @@ This dashboard explores Adidas sales performance across the United States. It hi
 
 <p>
 <strong>Your Name</strong><br/>
-<a href="mailto:your.email@example.com">your.email@example.com</a> ·
-<a href="https://www.linkedin.com/in/your-link">LinkedIn</a> ·
-<a href="https://github.com/your-username">GitHub</a>
+<a href="mailto:palhimasnhu00@gmail.com">palhimanshu00@gmail.com</a> ·
+<a href="www.linkedin.com/in/deepanshu-pal">LinkedIn</a> ·
+<a href="https://github.com/DeepanshuGI">GitHub</a>
 </p>
 
 <hr/>
