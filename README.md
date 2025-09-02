@@ -63,8 +63,8 @@ This dashboard explores Adidas sales performance across the United States. It hi
 
 <!-- Replace with an exported screenshot of your PBIX (add the file to the repo) -->
 <p align="center">
-  <!-- Example: <img src="./dashboard_preview.png" alt="Dashboard Preview" width="900" /> -->
-  <i>Add a screenshot (e.g., <code>dashboard_preview.png</code>) to showcase your report.</i>
+  <img src="https://github.com/DeepanshuGI/Power-BI-Adidas-Dashboard/blob/master/Adidas.png" alt="Dashboard Preview" width="600"/><br/>
+  <em>Dashboard Preview</em>
 </p>
 
 <h2>🔍 Sample Insights</h2>
